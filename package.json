@@ -12,6 +12,7 @@
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
+    "express-validator",
     "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "moriarty-express-router-group": "^1.0.3"
